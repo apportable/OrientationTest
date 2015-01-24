@@ -6,8 +6,6 @@
 #import "SettingsSystemUtil.h"
 
 // Note I recommend using the helper:
-//   #import <BridgeKit/AndroidContentResolver.h>
-//   AndroidContentResolver *contentResolver = [AndroidContentResolver alloc] init];
 //   BOOL isRotationAllowed = [SettingsSystemUtil isAccelerometerRotationAllowed];
 
 @interface SettingsSystemUtil()
