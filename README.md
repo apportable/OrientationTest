@@ -1,4 +1,4 @@
-Demonstration of bridging to Java from Objective-C to respect device orientation lock setting via Apportable Androi.
+Demonstration of bridging to Java from Objective-C to respect device orientation lock setting via Apportable Android
 
 ## Details
 
